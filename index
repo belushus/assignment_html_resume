@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- Title -->
+    <title>HTML in Action Belinda Resume</title>
+  </head>
+  
+  <body>
+    <header>
+    <h1>Belinda Crichlow</h1>
+    <address> 101 Frendship Way, Yuitzaville, Second Life 10047</address>
+    <a href="mailto:crichlowb@gmail.com">My email</a>
+    <hr>
+  </header>
+    
+  <section>
+  	<h1>Career Goals</h1>
+  	<p></p>
+  </section>
+    <section>
+    	<h1>Skills</h1>
+    	<ol>
+    		<li>Programming Languages</li>
+    		<li>Databases</li>
+    		<li>Version Control</li>
+    		<li>Operating Systems</li>
+    		<li>Other Tools</li>
+    		<li>Soft Skills</li>
+    	</ol>
+    </section>
+    
+    <section>
+    	<h1>Work Experience</h1>
+    	<table>
+    		<thead>
+    			<th>Time</th>
+    			<th>Name</th>
+    			<th>Location</th>
+    			<th>Position</th>
+    			<th>Responsibilities</th>
+    			<th>Contact Info</th>
+    		</thead>
+    		<tr>
+    		<tr>
+    			<td>2007-2012&nbsp;</td>
+    			<td>NYU Langone Medical Center&nbsp;</td>
+    			<td>New York, NY&nbsp;</td>
+    			<td>Office Manager&nbsp;</td>
+    			<td>Manager officer operations&nbsp;&nbsp;&nbsp;</td>
+    			<td>N/A</td>
+    		</tr>
+    			<td>2001&nbsp;</td>
+    			<td>JPMorganChase &nbsp; </td>
+    			<td>Brooklyn, NY &nbsp; </td>
+    			<td>Operations Manager&nbsp; &nbsp;&nbsp; </td>
+    			<td>Manager 30 Fulltime and Temp staff&nbsp;&nbsp;&nbsp; <br>
+    			    Evaluate staff performance &nbsp;&nbsp;&nbsp;
+    			</td>
+    			<td>N/A</td>
+    		</tr>
+    		<tr>
+    			<td>1993-2001&nbsp;</td>
+    			<td>Medgars Ever College, Cun&nbsp;y</td>
+    			<td>Brooklyn, NY&nbsp;</td>
+    			<td>Instructor</td>
+    			<td>Teach Powerpoint in Adult & Continuing PRogram&nbsp;&nbsp;&nbsp;</td>
+    			<td>N/A</td>
+    		</tr>
+    		
+    		
+    	</table>
+    </section>
+    
+    <section>
+    	<h1>Education</h1>
+    	<table>
+    		<thead>
+    			<th>Time></th>
+    			<th>School</th>
+    			<th>Location</th>
+    			<th>Major</th>
+    			<th>Minor</th>
+    		</thead>
+    		<tr>
+    			<td>2002-2005</td>
+    			<td>University of Phoenix</td>
+    			<td>Pnoenix, Arizona</td>
+    			<td>Human Resources</td>
+    			<td></td>
+    		</tr>
+    		<tr>
+    			<td>1994-2001</td>
+    			<td>Medgar Evers College, CUNY</td>
+    			<td>Brooklyn, NY</td>
+    			<td>BS Environmental Science</td>
+    			<td>Computer Science</td>
+    		</tr>
+    		
+    	</table>
+    	
+    </section>
+    <h1>Achievements</h1>
+       <ol>
+       	   <li>Most Outstanding COder, NYPL Projec Code Phase 2</li>
+       	   <li>Outstanding Leadership Award, Medga Evers College, CUNY Student Affairs</li>
+       	   <li>Outstanding Leadership Award, City Universigy of New York Student Affairs</li>
+       	   <li>Certificate of Appreciation, Math Department, MEdgar Evers College, CUNY</li>
+       </ol>
+       
+    <section>
+    
+    	<h1>Hobbies</h1>
+    	 <ol>
+       	<li>Biking</li>
+       	<li>Watching Movies</li>
+       	<li>Reading</li>
+       	<li>Walking</li>
+       	<li>Laying in the grass in the park</li>
+       </ol>
+    	
+    </section>
+    
+    <section>
+    	<h1>References</h1>
+    	<ol>
+    		<li>Ronald DeSilva, Web Developer, CVS</li>
+    		<li>James Bond, Manager, Bond Industries</li>s
+    	</ol>
+    </section>
+    
+    <footer>
+    <a href="mailto:crichlowb@gmail.com">Contact me</a>
+    </footer>
+ 
+ </body>
+</html>
